@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RQvgjDn4mwlKi4kVRTqK2Itsf6mMJ0MdQVfRJHWC/NA=",
+  "Source": "dotnet-poc",
+  "BasePath": "_content/dotnet-poc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
